@@ -1,4 +1,3 @@
-# pratica-etl-excel-python-sql  
 # Prática de Automação de Dados (ETL): Excel, Python e SQL Server
 
 Este repositório guarda um projeto prático desenvolvido para treinar a integração e o fluxo de dados (processo de **ETL**: Extração, Transformação e Carga) entre planilhas, código de automação e banco de dados relacional.
